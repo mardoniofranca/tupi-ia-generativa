@@ -15,7 +15,11 @@ Ia Generativa
 <br /> Implementar um chatbot temático orientado a distância de similaridade. Utilizar mais de uma medida de similaridade (Distância de Edição, Distância Consenno dentre outros) 
 <br /> Feature 2 :
 <br /> Implementar uma função no chatbot. Esta função acessará uma base de dados (banco de dados, csv pandas) 
+<br /> Diagrama: <br />
+<img src="imagens/fluxo_chatbot.png" alt="Diagrama do ChatBot" width="500" />
 <hr />
+
+
 <b> Projeto 2: Aplicação </b>
 <hr />
 <b>Descri&ccedil;&atilde;o </b> :
