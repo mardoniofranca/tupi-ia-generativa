@@ -32,32 +32,3 @@ Exemplos de Projetos : <br />
 <hr />
 
 <hr />
-
-# Implementação   
-<b> miner(mineração) </b> <br />   
-<ul><li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
-   miner/enem_2019-menores_14 </a>
-   </li>
-   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-menores_14.ipynb'>
-      miner/enem_2019-uf_ce </a>
-   </li>
-   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-uf_ce.ipynb'>
-      miner/enem_2019</a>
-   </li>
-   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019.ipynb'>
-      miner/enem_2019-cidade </a>
-   </li>
-</ul>
-
-<b> prepare(preparação) </b> <br />   
-<ul><li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/prepare/pero_vaz_caminha.ipynb'>
-          prepare/pero_vaz_caminha.ipynb</a>
-   </li>
-   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/prepare/poemas_da_coloniza%C3%A7%C3%A3o.ipynb'>
-      poemas_da_colonização.ipynb </a>
-   </li>
-   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/prepare/poemas_da_coloniza%C3%A7%C3%A3o_salvador.ipynb'>
-      poemas_da_colonização_salvador.ipynb </a>
-   </li>
-</ul>
-<b> view(visualização) </b> <br />   
