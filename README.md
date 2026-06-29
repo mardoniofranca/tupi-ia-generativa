@@ -29,6 +29,3 @@ Exemplos de Projetos : <br />
 <li> - Gestão de Chamadas  </li>
 <li> - Gest&atilde;o de Erros (Bugs)</li>
 </ul>
-<hr />
-
-<hr />
