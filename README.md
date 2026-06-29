@@ -10,7 +10,7 @@ Ia Generativa
 # Desafios:
 <b> Projeto 1: ChatBot</b>
 <hr />
-Descri&ccedil;&atilde;o :
+<b>Descri&ccedil;&atilde;o </b> :
 <br /> Feature 1 :
 <br /> Implementar um chatbot temático orientado a distância de similaridade. Utilizar mais de uma medida de similaridade (Distância de Edição, Distância Consenno dentre outros) 
 <br /> Feature 2 :
@@ -18,8 +18,9 @@ Descri&ccedil;&atilde;o :
 <hr />
 <b> Projeto 2: Aplicação </b>
 <hr />
-Descri&ccedil;&atilde;o :
+<b>Descri&ccedil;&atilde;o </b> :
 <br /> Implementar uma aplicação usando uma ferramenta IA com as metodologias top-down e bottom-up. 
+<br />
 Exemplos de Projetos : <br />
 <ul>
 <li> - Contas a Pagar e Receber</li>
