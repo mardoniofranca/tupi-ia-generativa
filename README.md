@@ -16,7 +16,7 @@ Ia Generativa
 <br /> Feature 2 :
 <br /> Implementar uma função no chatbot. Esta função acessará uma base de dados (banco de dados, csv pandas) 
 <br /> Diagrama: <br />
-<img src="img/fluxo_chatbot.png" alt="Diagrama do ChatBot" width="500" />
+<center> <img src="img/fluxo_chatbot.png" alt="Diagrama do ChatBot" width="500" /></center>
 <hr />
 
 
